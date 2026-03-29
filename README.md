@@ -10,7 +10,7 @@
 
 ## What This Does
 
-Three-body chaos is a framing error. Seven admissible configurations emerge when you replace pairwise coupling with shared-field synchronization. This paper provides the physical mechanism behind the figure-eight choreography and all known stable three-body configurations, using a field-based correction to the Kuramoto model. Chaos is not a property of three-body systems. It is what happens when you count bodies instead of fields. Includes animated simulation of all seven orbital locks.
+Includes animated simulation of the Jovian triadic synchronization showing two full 171-year coherence cycles. Three-body chaos is a framing error. Seven admissible configurations emerge when you replace pairwise coupling with shared-field synchronization. This paper provides the physical mechanism behind the figure-eight choreography and all known stable three-body configurations, using a field-based correction to the Kuramoto model. Chaos is not a property of three-body systems. It is what happens when you count bodies instead of fields.
 
 ---
 
