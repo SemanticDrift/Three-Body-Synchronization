@@ -88,8 +88,8 @@ Full publication list: https://www.semanticshift.net
 
 - `README.md` — this file
 - `Three Body Synchronization.pdf` — full paper
-- `jovian_system.py` — animated simulation of all seven configurations
-- `jovian_system.gif` — animated output, all seven orbital locks
+- `jovian_system.py` — animated simulation of the Jovian triadic synchronization
+- `jovian_system.gif` — 342-year animation showing two full 171-year coherence cycles
 
 ---
 
