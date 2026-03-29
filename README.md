@@ -65,11 +65,11 @@ Standard models require equal mass for the figure-eight. This paper shows mass e
 ## Run It
 
 ```
-pip install numpy matplotlib
-python three_body_synchronization.py
+pip install numpy matplotlib pillow
+python jovian_system.py
 ```
 
-Output: animated simulation cycling through all seven configurations. Each orbital lock runs for several seconds with a pause between configurations. Saved as `three_body_configurations.gif`.
+Output: two-panel animation. Left panel shows Jupiter, Saturn, and Uranus moving with fading trails of equal length. Right panel shows the triadic coherence envelope building over 342 years. Watch for the peak at year 171. The system resets and mirrors back to its initial configuration with near-perfect symmetry. That reversal is not an artifact. It is the field returning to its admissible lock. Saved as `jovian_system.gif`.
 
 ---
 
@@ -88,8 +88,8 @@ Full publication list: https://www.semanticshift.net
 
 - `README.md` — this file
 - `Three Body Synchronization.pdf` — full paper
-- `three_body_synchronization.py` — animated simulation of all seven configurations
-- `three_body_configurations.gif` — animated output, all seven orbital locks
+- `jovian_system.py` — animated simulation of all seven configurations
+- `jovian_system.gif` — animated output, all seven orbital locks
 
 ---
 
