@@ -69,7 +69,7 @@ pip install numpy matplotlib pillow
 python jovian_system.py
 ```
 
-Output: two-panel animation. Left panel shows Jupiter, Saturn, and Uranus moving with fading trails of equal length. Right panel shows the triadic coherence envelope building over 342 years. Watch for the peak at year 171. The system resets and mirrors back to its initial configuration with near-perfect symmetry. That reversal is not an artifact. It is the field returning to its admissible lock. Saved as `jovian_system.gif`.
+Output: two-panel animation. Left panel shows Jupiter, Saturn, and Uranus moving with fading trails of equal length. Right panel shows the triadic coherence envelope building over 342 years. Watch the coherence line on the right climb to full coherence at year 342, exactly when Uranus completes its 4th orbit. Year 171 is the midpoint, not the peak. The full lock is R=4 playing out in real orbital geometry.
 
 ---
 
@@ -89,7 +89,7 @@ Full publication list: https://www.semanticshift.net
 - `README.md` — this file
 - `Three Body Synchronization.pdf` — full paper
 - `jovian_system.py` — animated simulation of the Jovian triadic synchronization
-- `jovian_system.gif` — 342-year animation showing two full 171-year coherence cycles
+- `jovian_system.gif` — 342-year animation showing full triadic coherence lock at Uranus's 4th orbit
 
 ---
 
