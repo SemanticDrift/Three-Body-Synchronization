@@ -69,7 +69,14 @@ pip install numpy matplotlib pillow
 python jovian_system.py
 ```
 
-Output: two-panel animation. Left panel shows Jupiter, Saturn, and Uranus moving with fading trails of equal length. Right panel shows the triadic coherence envelope building over 342 years. Watch the coherence line on the right climb to full coherence at year 342, exactly when Uranus completes its 4th orbit. Year 171 is the midpoint, not the peak. The full lock is R=4 playing out in real orbital geometry.
+Output: two-panel animation. Left panel shows Jupiter, Saturn, and Uranus moving with fading trails of equal length. Right panel shows the triadic coherence envelope building over 342 years. Watch the coherence line on the right climb to full coherence at year 342, exactly when Uranus completes its 4th orbit. Year 171 is the midpoint, not the peak. The full lock is R=4 playing out in real orbital geometry. Saved as `jovian_system.py`
+
+```
+pip install numpy matplotlib
+python jovian_wave.py
+```
+
+Output: static PNG showing triadic coherence over 6,000 years. The 342-year identity state repeats without decay across 60 centuries. R=4 is not just a structural invariant. It is written in the orbital geometry. Saved as `jovian_wave.png`.
 
 ---
 
