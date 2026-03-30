@@ -87,6 +87,7 @@ Output: static PNG showing triadic coherence over 6,000 years. The 342-year iden
 |-----------|-----|
 | Field-Based Coupling | https://doi.org/10.5281/zenodo.18396204 |
 | Stratified Axiomatics | https://doi.org/10.5281/zenodo.18227025 |
+| Law of Admissibility | https://doi.org/10.5281/zenodo.18993233 |
 
 Full publication list: https://www.semanticshift.net
 
