@@ -90,6 +90,8 @@ Full publication list: https://www.semanticshift.net
 - `Three Body Synchronization.pdf` — full paper
 - `jovian_system.py` — animated simulation of the Jovian triadic synchronization
 - `jovian_system.gif` — 342-year animation showing full triadic coherence lock at Uranus's 4th orbit
+- `jovian_wave.py` — 6,000-year triadic coherence envelope of the Jovian system
+- `Jovian Wave.png` — the Jovian Wave, R=4 identity state repeating without decay across 60 centuries
 
 ---
 
